@@ -1,0 +1,14 @@
+.login-container {
+    background-image: url("../../public/assets/Split_Expenses.png");
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .btn-color {
+    background-color: rgb(46 158 121) !important;
+    margin-top: 20px;
+  }

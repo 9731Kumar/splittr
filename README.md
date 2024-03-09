@@ -1,10 +1,23 @@
-# Getting Started with Create React App
+# Getting Started
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Install VSCode as per your system specification. 
+Link: https://code.visualstudio.com/download
 
-## Available Scripts
+## Now that you have installed vscode, it's time to install nodejs and npm.
+Link: https://nodejs.org/en/download/ 
 
-In the project directory, you can run:
+To confirm Node installation, type node -v command.
+
+To confirm NPM installation, type npm -v command.
+
+## Clone the project repo.
+
+## Once the clone is completed. Open the project folder in the vs code.
+
+## Install the project dependencies. 
+ `npm install`
+
+## In the project directory, you can run:
 
 ### `npm start`
 

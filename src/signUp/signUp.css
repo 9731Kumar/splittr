@@ -1,0 +1,9 @@
+.signup-container {
+    background-image: url('../../public/assets/Split_Expenses.png');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
